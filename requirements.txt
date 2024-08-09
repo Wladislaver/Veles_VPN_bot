@@ -1,0 +1,7 @@
+pip install pyTelegramBotAPI
+pip install requests
+pip install xlrd xlwt xlutils
+pip install openpyxl
+pip install aiogram==2.25.1
+pip3 install aiomysql
+
